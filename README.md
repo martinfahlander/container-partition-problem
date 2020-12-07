@@ -4,7 +4,7 @@ Calculates optimal partitioning of item weights within two containers by compari
 Input:\
 X A B C\
 X: Number of items to be partitioned.\
-A, B, C: Weights of items.
+A, B, C: Weights of items.\
 Example: "4 543 654 876 543"
 
 Output:
